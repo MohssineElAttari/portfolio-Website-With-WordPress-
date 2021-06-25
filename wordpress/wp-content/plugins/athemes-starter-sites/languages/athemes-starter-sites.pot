@@ -1,0 +1,262 @@
+# Copyright (C) 2020 athemes-starter-sites
+# This file is distributed under the same license as the athemes-starter-sites package.
+msgid ""
+msgstr ""
+"Project-Id-Version: athemes-starter-sites\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: aThemes <hello@athemes.com>\n"
+"Last-Translator: aThemes <hello@athemes.com>\n"
+"Report-Msgid-Bugs-To: https://athemes.com/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: core/class-core.php:59
+msgid "Athemes_Starter_Sites"
+msgstr ""
+
+#: core/class-core.php:205
+msgid "Something went wrong, contact support."
+msgstr ""
+
+#: core/class-customizer-importer.php:45
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: core/class-customizer-importer.php:51
+msgid "Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: core/class-demos-page.php:84, core/class-demos-page.php:84, core/class-demos-page.php:365
+msgid "Starter Sites"
+msgstr ""
+
+#: core/class-demos-page.php:283
+msgid "Demo content id not set."
+msgstr ""
+
+#: core/class-demos-page.php:121
+msgid "Invalid demo content id."
+msgstr ""
+
+#: core/class-demos-page.php:136
+msgid "Install Plugins"
+msgstr ""
+
+#: core/class-demos-page.php:165
+msgid "Required plugin will be installed"
+msgstr ""
+
+#: core/class-demos-page.php:172
+msgid "Installing and activating"
+msgstr ""
+
+#: core/class-demos-page.php:184
+msgid "Import Content"
+msgstr ""
+
+#: core/class-demos-page.php:190
+msgid "Content"
+msgstr ""
+
+#: core/class-demos-page.php:194
+msgid "Importing contents..."
+msgstr ""
+
+#: core/class-demos-page.php:206
+msgid "Widgets"
+msgstr ""
+
+#: core/class-demos-page.php:211
+msgid "Importing widgets..."
+msgstr ""
+
+#: core/class-demos-page.php:222
+msgid "Customizer"
+msgstr ""
+
+#: core/class-demos-page.php:227
+msgid "Importing customizer options..."
+msgstr ""
+
+#: core/class-demos-page.php:238
+msgid "Options"
+msgstr ""
+
+#: core/class-demos-page.php:243
+msgid "Importing options..."
+msgstr ""
+
+#: core/class-demos-page.php:253
+msgid "Finish"
+msgstr ""
+
+#: core/class-demos-page.php:258
+msgid "Finishing setup..."
+msgstr ""
+
+#: core/class-demos-page.php:270, core/class-demos-page.php:562
+msgid "Cancel"
+msgstr ""
+
+#: core/class-demos-page.php:276, core/class-demos-page.php:440
+msgid "Import"
+msgstr ""
+
+#: core/class-demos-page.php:300, core/class-demos-page.php:543, core/class-demos-page.php:614
+msgid "aThemes"
+msgstr ""
+
+#: core/class-demos-page.php:309
+msgid "Select Category"
+msgstr ""
+
+#: core/class-demos-page.php:310
+msgid "All Categories"
+msgstr ""
+
+#: core/class-demos-page.php:329
+msgid "Select Page Builder"
+msgstr ""
+
+#: core/class-demos-page.php:330
+msgid "All Builders"
+msgstr ""
+
+#: core/class-demos-page.php:413
+msgid "Preview Demo"
+msgstr ""
+
+#: core/class-demos-page.php:448
+msgid "Get Pro"
+msgstr ""
+
+#: core/class-demos-page.php:469
+msgid "Import Theme"
+msgstr ""
+
+#: core/class-demos-page.php:477
+msgid "Installing"
+msgstr ""
+
+#: core/class-demos-page.php:482
+msgid "Please be patient and don't refresh this page, the import process may take a while, this also depends on your server."
+msgstr ""
+
+#: core/class-demos-page.php:509
+msgid "Imported Succefully"
+msgstr ""
+
+#: core/class-demos-page.php:513
+msgid "Go ahead, customize the text, images and design to make it yours!"
+msgstr ""
+
+#: core/class-demos-page.php:518
+msgid "Customize"
+msgstr ""
+
+#: core/class-demos-page.php:525
+msgid "Return to Dashboard"
+msgstr ""
+
+#: core/class-demos-page.php:529
+msgid "View Site"
+msgstr ""
+
+#. translators: Link.
+#: core/class-demos-page.php:614
+msgid "aThemes Sites Import (plugin) requires an %1$s theme to be installed and activated."
+msgstr ""
+
+#: core/class-widget-importer.php:39
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: core/class-widget-importer.php:78
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: core/class-widget-importer.php:99
+msgid "Site does not support widget"
+msgstr ""
+
+#: core/class-widget-importer.php:132
+msgid "Widget already exists"
+msgstr ""
+
+#: core/class-widget-importer.php:200
+msgid "Imported to Inactive"
+msgstr ""
+
+#: core/class-widget-importer.php:197
+msgid "Imported"
+msgstr ""
+
+#: core/class-widget-importer.php:206
+msgid "No Title"
+msgstr ""
+
+#: core/class-widget-importer.php:253
+msgid "No results for widget import!"
+msgstr ""
+
+#: core/core-helpers.php:24
+msgid " Don’t worry, this error is visible to site admins only, and your site visitors won’t see it."
+msgstr ""
+
+#: import/class-import.php:208
+msgid "Unknown slug in a plugin."
+msgstr ""
+
+#: import/class-import.php:213
+msgid "Unknown path in a plugin."
+msgstr ""
+
+#: import/class-import.php:221
+msgid "Insufficient permissions to install the plugin."
+msgstr ""
+
+#: import/class-import.php:245
+msgid "Failed to initialize or activate importer plugin."
+msgstr ""
+
+#: import/class-import.php:260, import/class-import.php:455, import/class-import.php:519, import/class-import.php:581
+msgid "The url address of the demo content is not specified."
+msgstr ""
+
+#: import/class-import.php:267
+msgid "You are not permitted to import contents."
+msgstr ""
+
+#: import/class-import.php:272
+msgid "No XML file specified."
+msgstr ""
+
+#: import/class-import.php:462
+msgid "You are not permitted to import customizer."
+msgstr ""
+
+#: import/class-import.php:467
+msgid "No customizer JSON file specified."
+msgstr ""
+
+#: import/class-import.php:526
+msgid "You are not permitted to import widgets."
+msgstr ""
+
+#: import/class-import.php:531
+msgid "No widgets WIE file specified."
+msgstr ""
+
+#: import/class-import.php:588
+msgid "You are not permitted to import options."
+msgstr ""
+
+#: import/class-import.php:593
+msgid "No options JSON file specified."
+msgstr ""
