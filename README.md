@@ -47,7 +47,7 @@ Vous pouvez ajouter les extensions que vous jugez nécessaires pour faciliter vo
 
 6 - Téléchargement du plugin ELEMENTOR PRO 
 
-7 - Importer un Theme qui s'appel SYDNEY, demo: SYDNEY.
+7 - Importer un Theme qui s'appel SYDNEY :https://wordpress.org/themes/sydney/
 
 8 - Edition du Demo avec ELEMENTOR PRO.
 
