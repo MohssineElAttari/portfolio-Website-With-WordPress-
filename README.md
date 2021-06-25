@@ -39,6 +39,8 @@ Vous pouvez ajouter les extensions que vous jugez nécessaires pour faciliter vo
 
 2 - Création d'une base de donnée MYSQL nommé: wordpress
 
+<img src="ScreanShots/database.png">
+
 3 - Installation de wordpress: localhost/wordpress
 
 4 - Configuration: urname: root, Password: , status : Administateur
@@ -50,6 +52,10 @@ Vous pouvez ajouter les extensions que vous jugez nécessaires pour faciliter vo
 7 - Importer un Theme qui s'appel SYDNEY :https://wordpress.org/themes/sydney/
 
 8 - Edition du Demo avec ELEMENTOR PRO.
+
+<img src="ScreanShots/home-portfolio.png">
+<img src="ScreanShots/cv-portfolio.png">
+<img src="ScreanShots/post-portfolio.png">
 
 9 - Creation des utilisateurs.
 
